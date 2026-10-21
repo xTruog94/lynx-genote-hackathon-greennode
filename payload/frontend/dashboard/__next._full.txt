@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:I[39756,["/notebook/_next/static/chunks/01xlw8hd842-c.js","/notebook/_next/static/chunks/0018dy-m-kusj.js"],"default"]
+3:I[37457,["/notebook/_next/static/chunks/01xlw8hd842-c.js","/notebook/_next/static/chunks/0018dy-m-kusj.js"],"default"]
+4:I[47257,["/notebook/_next/static/chunks/01xlw8hd842-c.js","/notebook/_next/static/chunks/0018dy-m-kusj.js"],"ClientPageRoot"]
+5:I[78928,["/notebook/_next/static/chunks/01xlw8hd842-c.js","/notebook/_next/static/chunks/0018dy-m-kusj.js","/notebook/_next/static/chunks/0b41-mot6vyl2.js"],"default"]
+8:I[97367,["/notebook/_next/static/chunks/01xlw8hd842-c.js","/notebook/_next/static/chunks/0018dy-m-kusj.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+c:I[97367,["/notebook/_next/static/chunks/01xlw8hd842-c.js","/notebook/_next/static/chunks/0018dy-m-kusj.js"],"ViewportBoundary"]
+e:I[97367,["/notebook/_next/static/chunks/01xlw8hd842-c.js","/notebook/_next/static/chunks/0018dy-m-kusj.js"],"MetadataBoundary"]
+10:I[68027,["/notebook/_next/static/chunks/01xlw8hd842-c.js","/notebook/_next/static/chunks/0018dy-m-kusj.js"],"default",1]
+:HL["/notebook/_next/static/chunks/061l_x8li4gz_.css","style"]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Black%20Italic-s.p.103tyukqbghmn.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Black-s.p.0wruur46m3_ci.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Bold%20Italic-s.p.09~482n84gh7~.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Bold-s.p.0iqzx_vn7~jfl.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Italic-s.p.11o4hx_pt-6~2.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Light%20Italic-s.p.16u9eiclfgpcw.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Light-s.p.0r6z8yk44n21c.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Medium%20Italic-s.p.0_n177-oxncba.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Medium-s.p.0d92seq8o-1a-.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Regular-s.p.0wcoc_0cwfbeh.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20SemiBold%20Italic-s.p.0l6dgo-~y226q.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20SemiBold-s.p.0ahiw1-djt4~7.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Thin%20Italic-s.p.0lb9lr9z6e788.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Thin-s.p.0kk7_tbb_bccv.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20XBold%20Italic-s.p.05znx~8ga2hzp.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20XBold-s.p.0l9qp89mly06v.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Xlight%20Italic-s.p.0fywz0y5wccxf.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/notebook/_next/static/media/SVN_Gilroy%20Xlight-s.p.0888jnzfee691.otf","font",{"crossOrigin":"","type":"font/otf"}]
+0:{"P":null,"c":["","dashboard",""],"q":"","i":false,"f":[[["",{"children":["dashboard",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/notebook/_next/static/chunks/061l_x8li4gz_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/notebook/_next/static/chunks/01xlw8hd842-c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/notebook/_next/static/chunks/0018dy-m-kusj.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","children":["$","body",null,{"className":"gilroy_ce0b1f6b-module__WbWAqW__variable antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","$L4",null,{"Component":"$5","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@6","$@7"]}}],[["$","script","script-0",{"src":"/notebook/_next/static/chunks/0b41-mot6vyl2.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,null]},null,false,"$@b"]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$10",[["$","link","0",{"rel":"stylesheet","href":"/notebook/_next/static/chunks/061l_x8li4gz_.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"JCauua7q_yi6ocvYQswLd"}
+11:[]
+b:"$W11"
+6:{}
+7:"$0:f:0:1:1:children:1:children:0:props:children:0:props:serverProvidedParams:params"
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[27201,["/notebook/_next/static/chunks/01xlw8hd842-c.js","/notebook/_next/static/chunks/0018dy-m-kusj.js"],"IconMark"]
+a:null
+f:[["$","title","0",{"children":"VietinBank Genote"}],["$","meta","1",{"name":"description","content":"Sổ tay thông minh của người VietinBank"}],["$","link","2",{"rel":"shortcut icon","href":"/notebook/Logo-Genote.png"}],["$","link","3",{"rel":"icon","href":"/notebook/Logo-Genote.png"}],["$","link","4",{"rel":"apple-touch-icon","href":"/notebook/Logo-Genote.png"}],["$","$L12","5",{}]]

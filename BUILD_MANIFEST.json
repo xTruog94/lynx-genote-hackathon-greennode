@@ -1,0 +1,11 @@
+{
+  "python": "3.11.2",
+  "ext_suffix": ".cpython-311-x86_64-linux-gnu.so",
+  "encrypted_assets": 7,
+  "compiled": {
+    "nuitka": 131,
+    "cython": 1,
+    "pyarmor": 0
+  },
+  "failures": 0
+}

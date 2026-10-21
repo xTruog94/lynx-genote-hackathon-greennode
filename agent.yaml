@@ -1,0 +1,27 @@
+# GreenNode AgentBase manifest. Replace the image path and flavor before deploy.
+# Secret values (database, LLM, JWT, LDAP, S3, RELEASE_ASSET_KEY) are NOT listed
+# here. The AgentBase portal env form is for non-sensitive configuration; inject
+# secrets through the platform secret store or a private env channel.
+name: genote-notebook
+runtime:
+  image: vcr.vngcloud.vn/REPLACE_REPO/genote-notebook:release
+  imageAuth: auto
+  # 1x1-general is too small for LibreOffice, ffmpeg, and the API worker.
+  # Replace with a catalog flavor of at least 4 vCPU and 8 GB RAM.
+  flavorId: 1x1-general
+  command: ["/app/entrypoint.sh"]
+  env:
+    PORT: "8080"
+    DOCUMENT_STORAGE: s3
+    GUNICORN_WORKERS: "2"
+    RUN_CELERY_WORKER: "1"
+    CELERY_CONCURRENCY: "1"
+    TZ: Asia/Ho_Chi_Minh
+    LOCAL_DOCUMENT_DIR: /app/data/documents
+    PYTHONPATH: /app:/app/doc-ocr
+    TIKTOKEN_CACHE_DIR: /app/data/tiktoken
+  autoscaling:
+    minReplicas: 1
+    maxReplicas: 1
+    cpuThreshold: 70
+    memoryThreshold: 70

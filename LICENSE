@@ -1,0 +1,9 @@
+Copyright (c) 2026 VietinBank. All rights reserved.
+
+This release package and container image are provided only to the named
+recipient for evaluation or operation agreed with the copyright holder.
+
+You may run the image and rebuild the runtime image from the compiled
+artifacts in this package. You may not redistribute the package, extract it
+for use in another product, or reverse engineer, decompile, or disassemble
+the compiled modules except to the extent applicable law forbids that limit.

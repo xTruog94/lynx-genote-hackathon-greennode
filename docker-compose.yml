@@ -1,0 +1,25 @@
+# Release runtime. Do not bind-mount application source over /app/backend or /app/doc-ocr.
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: genote-notebook:release
+    env_file:
+      - .env
+    environment:
+      PORT: "8080"
+      DOCUMENT_STORAGE: ${DOCUMENT_STORAGE:-s3}
+      GUNICORN_WORKERS: ${GUNICORN_WORKERS:-2}
+      RUN_CELERY_WORKER: ${RUN_CELERY_WORKER:-1}
+      CELERY_CONCURRENCY: ${CELERY_CONCURRENCY:-1}
+      PYTHONPATH: /app:/app/doc-ocr
+      TIKTOKEN_CACHE_DIR: /app/data/tiktoken
+    ports:
+      - "8080:8080"
+    volumes:
+      - notebook_data:/app/data
+    restart: unless-stopped
+
+volumes:
+  notebook_data:
